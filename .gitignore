@@ -1,7 +1,6 @@
 *.log
 *.srt
 .idea
-
 models/*
 dev
 venv
@@ -18,3 +17,9 @@ pack.bat
 gitcmd.bat
 logs
 poetry.lock
+.tabby-upload
+tiny.pt
+base.pt
+small.pt
+medium.pt
+large.pt
